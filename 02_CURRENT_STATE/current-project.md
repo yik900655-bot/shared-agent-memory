@@ -1,14 +1,14 @@
 # 当前项目
 
-更新于 2026-11-11，依据用户在本次初始化任务中确认的状态。
+更新于 2026-11-11，依据用户确认的最小 MVP 范围与 Roblox 项目复盘。
 
 | 项目 | 现状 |
 | --- | --- |
 | 活跃项目 | [Roblox Game Icon Generator](../03_PROJECTS/roblox-game-icon-generator/README.md) |
-| 所处阶段 | 寻找合适的开源开发底座 |
-| 当前任务 | 验证 Vercel AI SDK Image Generator 是否适合作为候选底座 |
-| 已完成 | AI Wallpaper 与 AI Cover 已完成源码审查 |
-| 待解决 | Vercel AI SDK Image Generator 的本地运行尚未验收 |
-| 下一步 | 在后续获授权的本地验证任务中运行候选，记录实际结果，再决定底座 |
+| 所处阶段 | 最小 MVP 市场验证，当前待真实单张交付验收 |
+| 当前范围 | 英文名称与描述输入、单张图标生成、预览和 512×512 PNG 下载 |
+| 已完成 | Photobooth 本地运行、KIE 服务端接入、模拟测试和 MVP 范围审查 |
+| 待解决 | 真实单张成品与人工质量验收。上次 401 的具体步骤尚未定位。 |
+| 下一步 | 在获得实施与真实调用授权后，验证纯文字单张闭环，再按上线验收标准准备公开验证。上线后观察 30 天的收录、搜索展示与点击、生成和下载，据此决定继续或暂停。 |
 
-验收明细见 [开发状态](../03_PROJECTS/roblox-game-icon-generator/development-status.md)。
+详见 [开发状态](../03_PROJECTS/roblox-game-icon-generator/development-status.md)、[MVP 范围与工作量](../03_PROJECTS/roblox-game-icon-generator/mvp-scope-and-work-plan.md) 和 [Roblox 项目复盘](../03_PROJECTS/roblox-game-icon-generator/retrospective.md)。
