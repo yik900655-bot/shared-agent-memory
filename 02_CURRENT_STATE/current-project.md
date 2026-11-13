@@ -1,14 +1,11 @@
 # 当前项目
 
-更新于 2026-11-11，依据用户确认的最小 MVP 范围与 Roblox 项目复盘。
+更新于 2026-11-12，依据用户确认的项目安排。
 
-| 项目 | 现状 |
-| --- | --- |
-| 活跃项目 | [Roblox Game Icon Generator](../03_PROJECTS/roblox-game-icon-generator/README.md) |
-| 所处阶段 | 最小 MVP 市场验证，当前待真实单张交付验收 |
-| 当前范围 | 英文名称与描述输入、单张图标生成、预览和 512×512 PNG 下载 |
-| 已完成 | Photobooth 本地运行、KIE 服务端接入、模拟测试和 MVP 范围审查 |
-| 待解决 | 真实单张成品与人工质量验收。上次 401 的具体步骤尚未定位。 |
-| 下一步 | 在获得实施与真实调用授权后，验证纯文字单张闭环，再按上线验收标准准备公开验证。上线后观察 30 天的收录、搜索展示与点击、生成和下载，据此决定继续或暂停。 |
+| 工作线 | 当前状态 | 下一步 |
+| --- | --- | --- |
+| 既有 Wiki 站 | 独立推进，按该项目自己的计划和验收执行。 | 按 Wiki 站原有安排继续，其进度无需等待工具站验证。 |
+| [Roblox Font Generator](../03_PROJECTS/roblox-font-generator/README.md) | 低成本工具站练习。当前已建档，实测待做。 | 用 45～60 分钟体验三个竞品，同输入对照，并到实际 Roblox 目标字段验证代表性样式。通过后约一天做单页 MVP。 |
+| [Roblox Game Icon Generator](../03_PROJECTS/roblox-game-icon-generator/README.md) | 当前产品方向已暂停，技术和调研资产已归档。 | 恢复以用户新决定为准。[历史复盘](../03_PROJECTS/roblox-game-icon-generator/retrospective.md) |
 
-详见 [开发状态](../03_PROJECTS/roblox-game-icon-generator/development-status.md)、[MVP 范围与工作量](../03_PROJECTS/roblox-game-icon-generator/mvp-scope-and-work-plan.md) 和 [Roblox 项目复盘](../03_PROJECTS/roblox-game-icon-generator/retrospective.md)。
+工具站的调研、开发与观察按独立范围和时间预算执行，工作量记在对应工具项目中。[Font Generator 决策](../04_DECISIONS/2026-11-12-roblox-font-generator-practice-mvp.md)
